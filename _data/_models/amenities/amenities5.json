@@ -1,4 +1,5 @@
 {
-  "name": "Laundry & Dryclean services",
-  "order": 5
+  "name": "Free breakfast",
+  "order": 5,
+  "hidden": false
 }
