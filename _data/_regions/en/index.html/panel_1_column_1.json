@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>About Us</h3><h2>Welcome to Hotel Piccolo Portofino</h2>"
+    "content": "<h3>About Us</h3>\n<h2>Welcome to Hotel Piccolo Portofino</h2>\n<p>You should <a href=\"check\">check</a> it <span>out</span></p>\n<p><span><img id=\"1502295000877\" class=\" \" src=\"http://d2r4g49zv9n1lp.cloudfront.net/1169/40935_1_master.jpg\" width=\"330\" height=\"220\" /></span></p>"
   }
 ]
