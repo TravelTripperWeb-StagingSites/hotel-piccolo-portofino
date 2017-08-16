@@ -1,5 +1,24 @@
 {
   "name": "NEW!",
   "description": "<p>It's new and first!</p>",
-  "order": -1
+  "order": -1,
+  "image": {
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/logo-image-hotelstpierre.png",
+    "name": "logo_image-hotelstpierre",
+    "file_name": "logo_image-hotelstpierre.png",
+    "file_type": "image/png",
+    "date_added": "2017-08-16 12:24:57",
+    "tags": "",
+    "file_size": 31389,
+    "width": 171,
+    "height": 93,
+    "description": "",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/large_logo_image-hotelstpierre.png",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/medium_logo_image-hotelstpierre.png",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/small_logo_image-hotelstpierre.png",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/xsmall_logo_image-hotelstpierre.png",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/thumb_logo_image-hotelstpierre.png",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_534_635/media/2017-08-16-122452/logo-image-hotelstpierre.png",
+    "alt": "logo"
+  }
 }
