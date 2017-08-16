@@ -1,9 +1,10 @@
 {
   "name": "The Fancy Restaurant",
   "tagline": "Join us for dinner",
-  "description": "<p>Info about the restaurant</p>",
+  "description": "<p>Info about the restaurant!&nbsp;</p>\n<p><img id=\"1502900609987\" class=\" \" src=\"http://d2r4g49zv9n1lp.cloudfront.net/1169/40935_1_master.jpg\" width=\"186\" height=\"124\" /></p>",
   "image": {
-    "url": "/assets/stock_images/breakfast.jpg"
+    "url": "/assets/stock_images/breakfast.jpg",
+    "alt": "Test"
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",

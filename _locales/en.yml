@@ -1,3 +1,4 @@
+---
 en:
   header:
     book_now_button: Book Now
@@ -19,6 +20,7 @@ en:
   offers:
     buttons:
       book_now: Book Offer
+      view_all: VIEW ALL OFFERS
   attractions:
     buttons:
       get_directions: Get Directions
